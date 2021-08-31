@@ -3,12 +3,27 @@
 body, html {
   scroll-behavior: smooth;
   font-family: 'Roboto', sans-serif;
-  max-height: 100%;background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.63)), url("https://cdn.discordapp.com/attachments/804558841189498930/880667469419806760/myBlur.jpg");
+  max-height: 100%;
+}
+
+body {
+  margin: 0%;
+  background-color: rgba(0, 0, 0, 0.63);
+}
+
+.bgImg {
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
-
+  animation: img 20s infinite;
+}
+@keyframes img {
+  0% {background-image: url(https://cdn.discordapp.com/attachments/804558841189498930/880667469419806760/myBlur.jpg);}
+  30% {background-image: url(https://cdn.discordapp.com/attachments/804558841189498930/880667469419806760/myBlur.jpg);}
+  50% {background-image: url(https://cdn.discordapp.com/attachments/804558841189498930/882192252020084736/my2blur.jpg);}
+  90% {background-image: url(https://cdn.discordapp.com/attachments/804558841189498930/882193061927612416/myblur4.jpg);}
+  100% {background-image: url(https://cdn.discordapp.com/attachments/804558841189498930/880667469419806760/myBlur.jpg);}
 }
 
 * {
@@ -86,6 +101,8 @@ a:active {
   border-radius: 20px;
   color: white;
   margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
   padding: 20px;
 }
 
@@ -123,6 +140,11 @@ h3 {
 }
 
 /* Style the buttons that are used to open and close the accordion panel */
+.b0x4rw4 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .accordion {
   background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
   color: rgb(255, 255, 255);
