@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+.root {
+    /* background:
+        linear-gradient(
+          rgba(0, 0, 0, 0.67), 
+          rgba(0, 0, 0, 0.308)
+        ),
+        url(bg.jpg); */
+        background-color: #101010;
+  }
+
+  /* .carousel .item {
+    height: 400px;
+  }
+  
+  .item img {
+      object-fit:cover;
+      min-height: 500px; !important
+  } */
+
+.kegelapan {
+    background: rgba(39, 39, 39, 0.11);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    border: 1px solid rgba(39, 39, 39, 0.19);
+}
+
+.disabled {
+  border-color: gray !important;
+}
+
+.bg-gelap {
+    background-color: #2B2B2B;
+}
+
+.bg-gelap-1 {
+  background-color: #191919;
+}
+
+.profile-card {
+  box-shadow: 3px 5px 10px 5px rgb(12 12 12 / 40%);
+}
+
+.logo_name {
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px #C0468C;
+    cursor: default;
+}
+
+.state .table {
+    color: whitesmoke;
+    cursor: default;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: start;
+}
+
+.state p {
+    color: #424242;
+    text-align: center;
+}
+
+.rest {
+    color: rgb(226, 226, 0);
+}
+
+.card {
+    background-color: #2B2B2B;
+    color: whitesmoke;
+}
+
+.menu .card:hover {
+    transform: scale(1.1);
+}
+
+.donasi {
+    background-color: #cb6767;
+}
+
+.btn-color {
+    color: white;
+    background-color: #423F3E;
+    border-color: #423F3E;
+}
+
+.btn-donasi {
+    color: white;
+    background-color: #BE1E2D;
+    border-color: #BE1E2D;
+}
+
+.btn-color:hover {
+    color: white;
+    background-color: #C0468C;
+    border-color: #C0468C;
+}
+
+.btn-color:active, .btn-color:focus, .btn-donasi:active, .btn-donasi:focus {
+    color: white !important;
+    background-color: #921c5e !important;
+    border-color: #C0468C !important;
+}
+
+.btn-donasi:hover {
+    background-color: #980000;
+    border-color: #800000;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+#iframe-trk {
+    height: 400px;
+}
+
+.carousel-caption {
+    position: relative;
+    left: 0;
+    top: 0;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+    background-color: #423F3E;
+}
+::-webkit-scrollbar-thumb {
+    background: #C0468C;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #91366a;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.text-center h3 span.typed-text {
+  font-weight: bold;
+  color: #C0468C;
+}
+.text-center h3 span.cursor {
+  display: inline-block;
+  background-color: #ccc;
+  margin-left: 0.1rem;
+  width: 3px;
+  animation: blink 1s infinite;
+}
+.text-center h3 span.cursor.typing {
+  animation: none;
+}
+@keyframes blink {
+  0%  { background-color: #ccc; }
+  49% { background-color: #ccc; }
+  50% { background-color: transparent; }
+  99% { background-color: transparent; }
+  100%  { background-color: #ccc; }
+}

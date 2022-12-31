@@ -1,0 +1,46 @@
+#overlay{
+  position:fixed;
+  z-index:99999;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+  background:rgba(0,0,0,0.9);
+  transition: 1s 0.4s;
+}
+#progress{
+  height:1px;
+  background:#fff;
+  position:absolute;
+  width:0;                /* will be increased by JS */
+  top:50%;
+}
+#progstat{
+  font-size:0.9em;
+  letter-spacing: 3px;
+  position:absolute;
+  top:50%;
+  margin-top:-40px;
+  width:100%;
+  text-align:center;
+  color:#fff;
+}
+
+@media (max-width: 480px) {
+    .mobile1 {
+        margin-left: 20px;
+    }
+    .container h4 {
+      text-align: center;
+    }
+}
+
+@media (max-width: 300px) {
+  .mobile-fold {
+    font-size: 0.8em;
+  }
+
+  h3 .mobile-fold {
+    font-size: 18px;
+  }
+}
