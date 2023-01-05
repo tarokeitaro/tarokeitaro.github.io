@@ -40,6 +40,10 @@
     font-size: 0.8em;
   }
 
+  .donasi-iframe-fix {
+    width: 100%;
+  }
+
   h3 .mobile-fold {
     font-size: 18px;
   }
