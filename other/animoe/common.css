@@ -4,6 +4,12 @@
       }
 }
 
+@media (max-width: 1536px) {
+    .card-width {
+        max-width: 40rem;
+      }
+}
+
 @media (max-width: 1400px) {
     .card-width {
         max-width: 30rem;
@@ -32,7 +38,7 @@
 
 @media (max-height: 430px) {
     .card-width {
-        max-width: 25rem;
+        max-width: 23rem;
       }
 }
 
