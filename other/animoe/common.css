@@ -1,0 +1,111 @@
+@media (max-width: 2000px) {
+    .card-width {
+        max-width: 50rem;
+      }
+}
+
+@media (max-width: 1400px) {
+    .card-width {
+        max-width: 30rem;
+      }
+}
+
+@media (max-height: 705px) {
+    .trakteer-qrcode {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {
+    .card-title {
+        font-size: unset;
+        color: white;
+      }
+      .card-text {
+        font-size: unset;
+        color: aliceblue;
+      }
+      .btn-sm {
+        font-size: unset;
+    }
+}
+
+@media (max-height: 430px) {
+    .card-width {
+        max-width: 25rem;
+      }
+}
+
+@media (max-width: 414px) {
+    .home-text h1 {
+        font-size: 5em;
+    }
+}
+
+@media (max-width: 380px) {
+    .home-text h1 {
+        font-size: 4em;
+    }
+}
+
+@media (max-height: 320px) {
+    .card-width {
+        max-width: 20rem;
+    }
+    .card-title {
+        font-size: 1em;
+        color: white;
+      }
+      .card-text {
+        font-size: 0.9em;
+        color: aliceblue;
+      }
+      .btn-sm {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 300px) {
+    h1 {
+        font-size: 3.5em !important;
+    }
+    h3.home-text-color-fix {
+        font-size: 1.5em;
+    }
+    strong {
+        font-size: 14px;
+    }
+    .card-title {
+        /* font-size: 1em; */
+        /* margin-bottom: 0; */
+        font-size: 1.2em;
+        margin-bottom: 8px;
+    }
+    .card-text {
+        /* font-size: 0.9em;
+        margin-bottom: 0; */
+        display: none;
+    }
+    .btn {
+        margin: 0;
+    }
+    .btn-sm {
+        font-size: 0.7em;
+    }
+}
+
+@media (pointer: coarse), (hover: none) and (max-width: 1024px) {
+    .card .overlay {
+        bottom: 0;
+        height: 100%;
+      }
+    .trakteer-qrcode {
+        display: none;
+    }
+    .mobile-no-refresh, iframe {
+        touch-action: none;
+    }
+    .megumi3 {
+        opacity: 10%;
+    }
+  }
