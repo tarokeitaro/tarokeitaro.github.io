@@ -1,0 +1,23 @@
+.markdown-body ol,.markdown-body ul {
+    color: aliceblue;
+    columns: 3;
+  }
+
+@media (max-width: 980px) {
+    .markdown-body ol,.markdown-body ul {
+        columns: 2;
+    }
+}
+
+@media (max-width: 480px) {
+    .markdown-body ol,.markdown-body ul {
+        columns: 1;
+    }
+    ol {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-height: 580px;
+        overflow-y: scroll;
+    }
+}
