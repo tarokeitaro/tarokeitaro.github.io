@@ -27,7 +27,7 @@ function nextTips(){
 setInterval(nextTips, randAppear);
 
 //notif sound
-const sound = "https://cdn.discordapp.com/attachments/800026280204304424/1067150605539365006/pop.mp3";
+const sound = "https://tarokeitaro.github.io/other/kuhaku/notif.mp3";
 function pop(){
   new Audio(sound).play();
 }
