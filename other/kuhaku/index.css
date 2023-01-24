@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 .root {
     /* background:
         linear-gradient(
@@ -131,6 +135,10 @@ h5 {
 
 #iframe-trk {
     height: 400px;
+}
+
+iframe {
+    pointer-events: none;
 }
 
 .carousel-caption {
