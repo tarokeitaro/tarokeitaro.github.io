@@ -28,7 +28,6 @@
 25. [Seiken Densetsu Legend of Mana](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Seiken%20Densetsu%20Legend%20of%20Mana%20-%20The%20Teardrop%20Crystal/ "Seiken Densetsu Legend of Mana")
 26. [Shinka No Mi S2](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Shinka%20No%20Mi%20S2/ "Shinka No Mi S2")
 27. [Spy Kyoushitsu](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Spy%20Kyoushitsu/ "Spy Kyoushitsu")
-28. [Summer Time Rendering](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Summer%20Time%20Rendering/ "Summer Time Rendering")
 29. [Tensei Oujo To Tensai Reijou](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Tensei%20Oujo%20To%20Tensai%20Reijou%20No%20Mahou%20Kakumei/ "Tensei Oujo To Tensai Reijou")
 30. [Tokyo Revengers S2](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Tokyo%20Revengers/ "Tokyo Revengers S2")
 31. [TomoChan Wa Onnanoko!](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Tomo-Chan%20Wa%20Onnanoko!/ "TomoChan Wa Onnanoko!")
@@ -37,12 +36,11 @@
 34. [Uzakichan wa Asobitai! Double](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Uzaki-chan%20wa%20Asobitai!%20Double/ "Uzakichan wa Asobitai! Double")
 35. [Vinland Saga S2](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Vinland%20Saga%20S2/ "Vinland Saga S2")
 36. [Yofukashi No Uta](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id]%20Yofukashi%20No%20Uta/ "Yofukashi No Uta")
-37. [Kaguyasama Love Is War  Ultra Romantic](https://db.shirozone.workers.dev/0:/[1080P]%20ANIME%20ONGOING/[kuhaku.id][BD]%20Kaguya-sama%20Love%20Is%20War%20-%20Ultra%20Romantic/ "Kaguyasama Love Is War  Ultra Romantic") 
 <!-- Akhir dari List anime -->
 
 ------------
 
-> Last updated on 2023-01-19 11:14:27 Thursday &bull;
+> Last updated on 2023-02-10 23:57:22 Friday &bull;
 > Published by : Admin
 
 <!-- Gunakan website berikut untuk mengedit markdown dengan mudah :) -->
