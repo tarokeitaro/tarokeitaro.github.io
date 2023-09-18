@@ -164,6 +164,10 @@ a:hover:after {
   background-color: #EAE0DA;
 }
 
+.fifth {
+  background-color: #EAE0DA;
+}
+
 /* line 62, ../scss/main.scss */
 .opr-next {
   width: 30px;
