@@ -58,14 +58,17 @@ h2 {
     user-select: none;
 }
 
-p a {
+p a,.url {
     text-decoration: none;
     color: unset;
-    font-size: 1.2rem;
 }
 
 a {
     transition: 0.3s;
+}
+
+.text-muted-c {
+  color: var(--6) !important;
 }
 
 .color-invert {
