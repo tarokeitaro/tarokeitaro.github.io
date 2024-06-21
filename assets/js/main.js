@@ -25,3 +25,5 @@ const currentYear = new Date().getFullYear();
 const yearElement = document.getElementById('current-year');
 // set the text
 yearElement.textContent = currentYear;
+
+console.log('%cStill in development', 'color: red; background-color: yellow; font-weight: bold; font-size: 20px;');
