@@ -25,7 +25,7 @@
 html body {
     background-color: var(--2);
     color: var(--7);
-    overflow-x: hidden !important;
+    /* overflow-x: hidden !important; */
 }
 
 .navbar, footer {
@@ -104,6 +104,7 @@ a:active, a:hover {
     flex-wrap: wrap;
     justify-content: space-between;
     user-select: none;
+    overflow-x: hidden !important;
 }
 
 .text-container {
