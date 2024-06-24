@@ -1,5 +1,3 @@
-AOS.init();
-
 // tanggal berakhir
 function calculateDaysRemaining(endDate) {
     const currentDate = new Date();
@@ -26,4 +24,4 @@ const yearElement = document.getElementById('current-year');
 // set the text
 yearElement.textContent = currentYear;
 
-console.log('%cStill in development', 'color: red; background-color: yellow; font-weight: bold; font-size: 20px;');
+console.log('%cStill in development!', 'color: red; background-color: yellow; font-weight: bold; font-size: 30px;');
