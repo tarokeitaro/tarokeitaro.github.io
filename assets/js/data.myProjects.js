@@ -40,6 +40,16 @@ const projectsData = [
         aos: "fade-down",
         delay: 200,
     },
+    {
+        enable: true,
+        title: "Mini Server Upgrade: PVE, NAS & Nextcloud service",
+        img: "assets/images/mini_server.webp",
+        alt: "Screenshot of Mini Server setup and services.",
+        description:
+            "Upgraded to a dedicated Mini PC server powered by Proxmox for virtualization and containerized workloads. Added a NAS and Nextcloud for reliable data storage and synchronization. The system is secured with an improved Mikrotik router, UPS backup, and proper electrical grounding to ensure stability and continuous operation.",
+        aos: "fade-down",
+        delay: 200,
+    }
     // END OF EDIT ARRAY DATA
 ];
 
@@ -60,7 +70,7 @@ projectsData
           src="${project.img}" 
           alt="${project.alt}" 
           loading="eager" 
-          class="card-img-top">
+          class="card-img-top img-ratio-16-9">
         <div class="card-body">
           <h5 class="card-title">${project.title}</h5>
           <p class="card-text text-start">${project.description}</p>

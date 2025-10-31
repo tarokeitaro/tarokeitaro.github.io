@@ -143,6 +143,11 @@ a:active, a:hover {
     user-select: none;
 }
 
+.img-ratio-16-9 {
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+
 .card-bg-dark {
     background-color: var(--4) !important;
     background-image: url(../images/acc-bg.svg);
